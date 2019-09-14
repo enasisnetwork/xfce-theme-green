@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Enasis Network Xfce Green Numix
+Comment=Green theme generated using Oomox and Numix
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=enasisnetwork-xfce-theme-green
+GtkTheme=enasisnetwork-xfce-theme-green
+IconTheme=enasisnetwork-xfce-theme-green
+MetacityTheme=enasisnetwork-xfce-theme-green
