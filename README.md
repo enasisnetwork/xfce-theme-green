@@ -19,3 +19,4 @@ The most common practice is to copy the theme and the icons to your local home
 directory `.themes` and `.icons` directory.
 - Copy `icons` -> `~/.icons/enasisnetwork-xfce-theme-green`
 - Copy `theme` -> `~/.themes/enasisnetwork-xfce-theme-green`
+- Copy `theme/atom/enasis_network_green_syntax` -> `~/.atom/packages/enasis_network_green_syntax`
